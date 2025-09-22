@@ -1,0 +1,7 @@
+{
+  "name": "VeraVoice - Your Personal Voice Assistant",
+  "description": "A sleek, minimalist personal voice assistant that understands natural language commands, recognizes your voice for a personalized experience, and responds in a voice of your choosing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
